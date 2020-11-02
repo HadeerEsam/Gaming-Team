@@ -1,2 +1,4 @@
 # Gaming-Team
-simple template using angular
+first practice on angular. converting a landing page to single page app.
+
+link: https://gaming-team.vercel.app/
